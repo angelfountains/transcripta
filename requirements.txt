@@ -1,0 +1,4 @@
+whisper
+streamlit
+python-docx
+ffmpeg-python
